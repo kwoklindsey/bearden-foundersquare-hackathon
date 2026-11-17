@@ -1,0 +1,4 @@
+cognee==1.6.8
+streamlit
+python-dotenv
+

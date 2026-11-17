@@ -1,0 +1,195 @@
+[
+  {
+    "address": "2600 Channing Way #4",
+    "title": "Sunny private room, 5 min to campus",
+    "description": "Fully furnished. I'm currently overseas for work so I can't show it, but send the $800 deposit by Zelle to hold it and I'll mail the keys. Many people interested!",
+    "rent": "$1,100",
+    "landlord": "David",
+    "company": "",
+    "contact": "(510) 555-0142",
+    "source": "Facebook Marketplace",
+    "neighborhood": "Southside",
+    "room_type": "Private room",
+    "beds": 3,
+    "baths": 1,
+    "walk_min": 6,
+    "move_in": "Aug 1",
+    "amenities": [
+      "Furnished",
+      "In-unit laundry"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1630699375019-c334927264df?w=900&q=70&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1612320743558-020669ff20e8?w=900&q=70&auto=format&fit=crop"
+    ]
+  },
+  {
+    "address": "2420 Hillegass Ave",
+    "title": "Private room in 4BR house, Southside",
+    "description": "Tours Tue/Thu afternoons. 12-month lease starting Aug 1, utilities split ~$110/mo. Lease through Bay Property Group.",
+    "rent": "$1,350",
+    "landlord": "Karen Liu",
+    "company": "Bay Property Group",
+    "contact": "leasing@bayprop.example",
+    "source": "Berkeley off-campus housing portal",
+    "neighborhood": "Southside",
+    "room_type": "Private room",
+    "beds": 4,
+    "baths": 2,
+    "walk_min": 9,
+    "move_in": "Aug 1",
+    "amenities": [
+      "In-unit laundry",
+      "Backyard",
+      "Pets OK"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1652882860938-f90aa298e644?w=900&q=70&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1662454419736-de132ff75638?w=900&q=70&auto=format&fit=crop"
+    ]
+  },
+  {
+    "address": "1820 Euclid Ave #2",
+    "title": "Northside studio near Hearst",
+    "description": "Quiet building. Open house Saturday. Message for application details.",
+    "rent": "$1,395",
+    "landlord": "Tom Reyes",
+    "company": "",
+    "contact": "(510) 555-0199",
+    "source": "Craigslist",
+    "neighborhood": "Northside",
+    "room_type": "Studio",
+    "beds": 1,
+    "baths": 1,
+    "walk_min": 7,
+    "move_in": "Jun 1",
+    "amenities": [
+      "Furnished",
+      "Utilities included"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1652882860902-7c6b0f88ef23?w=900&q=70&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1649068559107-e5d936141e44?w=900&q=70&auto=format&fit=crop"
+    ]
+  },
+  {
+    "address": "2700 Dwight Way",
+    "title": "Room available NOW, first come first served",
+    "description": "Cheap room, no showings right now. Send deposit first to reserve.",
+    "rent": "$650",
+    "landlord": "Mike",
+    "company": "",
+    "contact": "(510) 555-0177",
+    "source": "Craigslist",
+    "neighborhood": "Southside",
+    "room_type": "Private room",
+    "beds": 5,
+    "baths": 2,
+    "walk_min": 12,
+    "move_in": "Now",
+    "amenities": [
+      "Furnished"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1612320582827-a95ab2596dbc?w=900&q=70&auto=format&fit=crop"
+    ]
+  },
+  {
+    "address": "2510 Durant Ave #12",
+    "title": "Large room, balcony, Telegraph",
+    "description": "Tours available this week. 12-month lease. Utilities included.",
+    "rent": "$1,650",
+    "landlord": "Priya Shah",
+    "company": "Telegraph Living",
+    "contact": "(510) 555-0123",
+    "source": "Apartments.com",
+    "neighborhood": "Southside",
+    "room_type": "Private room",
+    "beds": 2,
+    "baths": 1,
+    "walk_min": 5,
+    "move_in": "Aug 1",
+    "amenities": [
+      "Utilities included",
+      "Balcony",
+      "Gym"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1771287491132-4954b32210d6?w=900&q=70&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560448075-57d0285fc59b?w=900&q=70&auto=format&fit=crop"
+    ]
+  },
+  {
+    "address": "2125 Milvia St #6",
+    "title": "Downtown room near BART",
+    "description": "Tours by appointment any weekday. 12-month lease, utilities ~$90/mo. Managed by Gilman Properties.",
+    "rent": "$1,250",
+    "landlord": "Ana Torres",
+    "company": "Gilman Properties",
+    "contact": "(510) 555-0108",
+    "source": "Berkeley off-campus housing portal",
+    "neighborhood": "Downtown",
+    "room_type": "Private room",
+    "beds": 3,
+    "baths": 1,
+    "walk_min": 11,
+    "move_in": "Aug 1",
+    "amenities": [
+      "Parking",
+      "In-unit laundry"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1630699293259-0b6c08606c62?w=900&q=70&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1662454419736-de132ff75638?w=900&q=70&auto=format&fit=crop"
+    ]
+  },
+  {
+    "address": "1730 La Loma Ave",
+    "title": "Quiet room with bay views, Northside",
+    "description": "Open house Sunday 1-3pm. Lease June-June, summer sublease allowed with approval.",
+    "rent": "$1,300",
+    "landlord": "Grace Kim",
+    "company": "",
+    "contact": "(510) 555-0164",
+    "source": "Facebook Marketplace",
+    "neighborhood": "Northside",
+    "room_type": "Private room",
+    "beds": 3,
+    "baths": 2,
+    "walk_min": 14,
+    "move_in": "Jun 1",
+    "amenities": [
+      "Pets OK",
+      "Parking",
+      "Furnished"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1649068559107-e5d936141e44?w=900&q=70&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1612320743558-020669ff20e8?w=900&q=70&auto=format&fit=crop"
+    ]
+  },
+  {
+    "address": "2328 Prospect St",
+    "title": "Shared double near Memorial Stadium",
+    "description": "Shared room for 2. Tours Mon/Wed evenings. Utilities included.",
+    "rent": "$950",
+    "landlord": "Eric Wong",
+    "company": "Prospect Housing",
+    "contact": "(510) 555-0131",
+    "source": "Craigslist",
+    "neighborhood": "Southside",
+    "room_type": "Shared room",
+    "beds": 4,
+    "baths": 2,
+    "walk_min": 8,
+    "move_in": "Aug 15",
+    "amenities": [
+      "Utilities included",
+      "In-unit laundry"
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1612320582827-a95ab2596dbc?w=900&q=70&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1630699375019-c334927264df?w=900&q=70&auto=format&fit=crop"
+    ]
+  }
+]
