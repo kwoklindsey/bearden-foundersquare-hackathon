@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+intel_index.json
+.demo_run
+.claude/
+.agents/
+.DS_Store
